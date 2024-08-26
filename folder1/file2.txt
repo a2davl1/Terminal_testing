@@ -1,0 +1,4 @@
+I moved file2.txt to folder1
+Then rm file2.txt from GitHub by git rm file2.txt
+and commiting the remove
+and pushing the remove
