@@ -1,0 +1,10 @@
+cat
+dog
+person
+frog
+horse
+panda
+tree
+flower
+car
+person
